@@ -1,0 +1,6 @@
+OPENAI_API_KEY="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"
+
+# Update these with your Supabase details from your project settings > API and dashboard settings
+PINECONE_API_KEY="c0e67b49-5461-483a-a2d5-36869241fc03"
+PINECONE_ENVIRONMENT="us-west4-gcp"
+PINECONE_INDEX_NAME="chagpt"
